@@ -13,3 +13,7 @@ Today we are learning GitHub and Markdown.
 - First Item
 - Second Item
 - Third Item
+
+#### Link a Page
+
+[Spiced Academy](https://www.spiced-academy.com)
