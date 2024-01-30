@@ -1,6 +1,11 @@
 # first-repo
 Today we are learning GitHub and Markdown.
 
-## This is a subtitle.
+## List in MD.
+
+1. First item
+2. Second item
+3. Third item
+4. Forth item
 
 ### Less important title
