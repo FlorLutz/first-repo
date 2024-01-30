@@ -1,2 +1,6 @@
 # first-repo
-This is an example of a git repository.
+Today we are learning GitHub and Markdown.
+
+## This is a subtitle.
+
+### Less important title
