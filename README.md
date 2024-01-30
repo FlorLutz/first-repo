@@ -21,3 +21,5 @@ Today we are learning GitHub and Markdown.
 ##### Add an image
 
 ![palm_trees](IMG_0469.JPG)
+
+![vanilla](https://www.synergytaste.com/wp-content/uploads/sites/2/2021/10/Vanilla-3-WP.jpg)
