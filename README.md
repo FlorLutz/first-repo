@@ -20,4 +20,4 @@ Today we are learning GitHub and Markdown.
 
 ##### Add an image
 
-![IMG_0469](https://github.com/FlorLutz/first-repo/assets/157010796/ca12e686-19d7-479d-9a76-cfbccf87c10c)
+![palm_trees](https://github.com/FlorLutz/first-repo/assets/157010796/ca12e686-19d7-479d-9a76-cfbccf87c10c)
