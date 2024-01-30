@@ -1,7 +1,7 @@
-# first-repo
+# Learn GitHub and Markdown
 Today we are learning GitHub and Markdown.
 
-## List in MD.
+## List in MD
 
 1. First item
 2. Second item
@@ -14,12 +14,22 @@ Today we are learning GitHub and Markdown.
 - Second Item
 - Third Item
 
-#### Link a Page
+### Link a Page
 
 [Spiced Academy](https://www.spiced-academy.com)
 
-##### Add an image
+### Add an image
 
 ![palm_trees](IMG_0469.JPG)
 
 ![vanilla](https://www.synergytaste.com/wp-content/uploads/sites/2/2021/10/Vanilla-3-WP.jpg)
+
+### Add Inline Code
+
+We can add a `line` of code
+
+### Block code
+
+```js
+let cohort = "Vanilla"
+```
